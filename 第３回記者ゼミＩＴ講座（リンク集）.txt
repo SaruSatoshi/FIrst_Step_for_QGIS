@@ -1,0 +1,79 @@
+参考資料　第３回記者ゼミＩＴ講座　リンク集
+
+【ＧＩＳ統計データ】
+地図で見る統計（統計ＧＩＳ）　総務省
+http://e-stat.go.jp/SG2/eStatGIS/page/download.html 
+Ｇ空間情報センター
+https://www.geospatial.jp/gp_front/ 
+東京都オープンデータ　ポータルサイト
+http://opendata-portal.metro.tokyo.jp/www/index.html 
+
+【ＷＥＢＧＩＳ】
+ＧＩＳポータルサイト
+http://www.gis.go.jp/contents/whatisgis.html
+統合災害情報システム　国土交通省
+http://www.mlit.go.jp/saigai/dimaps/
+環境アセスメント環境基礎情報データベースシステム　環境省
+https://www2.env.go.jp/eiadb/ebidbs/Service/Main
+ひなたＧＩＳ　宮崎県
+https://hgis.pref.miyazaki.lg.jp/hinata/hinata.html# 
+ハザードマップポータルサイト　国土交通省
+http://disaportal.gsi.go.jp/
+愛知県警　安心・安全マップ
+http://aichipolice.maps.arcgis.com/apps/MapAndAppGallery/index.html?appid=1eaeb43196414f6c9e427a6ea00dd3e9
+東京都環境科学研究所
+https://www.tokyokankyo.jp/kankyoken/　
+DamMaps：川と流域地図
+http://tiles.dammaps.jp/ryuiki/
+
+【地図】
+わかりやすい平面直角座標系　国土地理院
+http://www.gsi.go.jp/sokuchikijun/jpc.html
+ESPGコード検索サイト
+http://www.epsg-registry.org/
+・landsatlook　（画像ダウンロード）
+https://landsatlook.usgs.gov/viewer.html
+・Landsat8画像を使ってみよう（ArcGISブログ）
+https://blog.esrij.com/2017/04/28/post-24474/
+全国市町村界データ　esriジャパン
+https://www.esrij.com/products/japan-shp/
+（使用規定）
+https://www.esrij.com/cgi-bin/wp/wp-content/uploads/2015/08/shikuchoson_terms.pdf
+ジオコーディング　google
+http://www.geocoding.jp/
+google map API 価格とプラン
+https://developers.google.com/maps/pricing-and-plans/#details
+オープンストリートマップ（日本語版）ホームページ
+https://openstreetmap.jp/　
+
+【ＱＧＩＳ】
+QGIS日本語ホームページ
+http://qgis.org/ja/site/
+QGISユーザーガイド
+http://docs.qgis.org/2.2/ja/docs/user_manual/
+QGISトレーニングマニュアル
+http://docs.qgis.org/2.2/ja/docs/training_manual/
+
+【データ】
+放射線モニタリング情報　原子力規制委員会
+http://radioactivity.nsr.go.jp/ja/　
+平成２７年地価公示（国土交通省）　第８表：東京圏の市区の対前年比変動率
+http://tochi.mlit.go.jp/chika/kouji/2015/15.html
+データ出典；平成２２年国勢調査（小地域）　総務省
+http://e-stat.go.jp/SG2/eStatGIS/page/download.html
+
+【ニュース記事】
+御嶽山 噴火の証言　NHK
+http://www.nhk.or.jp/d-navi/link/ontake2014/index.html
+Hoe Missing Jet’s Debris  Could Have Floated to Reunion　The New york Times
+https://www.nytimes.com/interactive/2014/03/17/world/asia/search-for-flight-370.html
+あるニュース番組が「メルカトル図法の地図に円形のミサイルの到達範囲」を重ねて放送してプチ炎上　togetter
+https://togetter.com/li/1112524 
+勝手につこたらアカン！ 奈良県や県警、HPで６１５枚の地図を「無断使用」で削除（産経新聞　２０１７年１月２８日）
+http://www.sankei.com/west/news/170128/wst1701280033-n1.html　
+各県がホームページから地図を大量削除している　togetter
+https://togetter.com/li/1095958
+
+
+
+
